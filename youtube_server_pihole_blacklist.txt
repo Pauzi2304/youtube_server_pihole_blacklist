@@ -1,0 +1,16 @@
+# Title: Pauzi2304/youtube_server_pihole_blacklist
+#
+# This blacklist blocks all youtube servers
+# 
+# Date: 08 September 2023 (UTC)
+# Number of domains: 3
+#
+#
+
+#Start
+
+www.youtube-nocookie.com
+m.youtube.com
+www.youtube.com
+
+#End
