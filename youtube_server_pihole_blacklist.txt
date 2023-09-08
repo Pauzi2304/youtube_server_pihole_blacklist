@@ -3,14 +3,15 @@
 # This blacklist blocks all youtube servers
 # 
 # Date: 08 September 2023 (UTC)
-# Number of domains: 3
+# Number of domains: 4
 #
-#
+# https://raw.githubusercontent.com/Pauzi2304/youtube_server_pihole_blacklist/main/youtube_server_pihole_blacklist.txt
 
 #Start
 
 www.youtube-nocookie.com
 m.youtube.com
 www.youtube.com
+rr1---sn-35cxanpbo5a-8pxs.googlevideo.com
 
 #End
